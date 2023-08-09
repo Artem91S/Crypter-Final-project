@@ -13,8 +13,7 @@ I used Frame-motion, Swiper, Css modules for styling the page.
 <br/>
 I deploy the site on vercel, this is the link on it https://crypter-ten.vercel.app.
 <br/>Please see the demo video.
-<video src='https://github.com/Artem91S/Crypter/assets/115031070/206795d7-db9b-432c-aa33-7e06cfc21d50' autoplay poster='https://github.com/Artem91S/Crypter/assets/115031070/a56e4b8d-95f2-431c-a966-ff31e8730bea'>
+<img src='https://github.com/Artem91S/Crypter/assets/115031070/206795d7-db9b-432c-aa33-7e06cfc21d50' poster='https://github.com/Artem91S/Crypter/assets/115031070/a56e4b8d-95f2-431c-a966-ff31e8730bea'>
 
-</video>
 
 
